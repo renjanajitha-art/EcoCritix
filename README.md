@@ -49,6 +49,8 @@ $$\frac{dx}{dt} = -x^3 + x + r + \sigma \xi(t)$$
 * **Education:** Plain-language reference library connecting zoology, thermodynamics, and bifurcation theory.
 
 **Tech Stack:** React, Tailwind CSS, Recharts, Three.js, Base44.
+[![DOI](https://zenodo.org)](https://doi.org)
+
 
 ---
 
