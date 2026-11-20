@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use or reference this prototype, please cite it as below."
+authors:
+  - family-names: "Renjan"
+    given-names: "Rejitha"
+title: "EcoCritix: Early Detection of Ecosystem Collapse via Ecological Criticality & Resilience Complexity"
+version: 1.0.0
+doi: 10.5281/zenodo.24387138
+date-released: 2026-11-20
+url: "https://github.com"
